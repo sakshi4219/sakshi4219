@@ -8,7 +8,7 @@ public class calculator
         System.out.println("addition of number is:"+(a+b));
         System.out.println("sub of number is:"+(a-b));
         System.out.println("multiple of number is:"+(a*b));
-        System.out.println("division of nnumber is:"+(a/b));
+        System.out.println("division of nnumber is:"+(a%b));
 
     }
 }
