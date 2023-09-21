@@ -24,7 +24,7 @@ public class Assignment3
 
             driver.findElement(By.id(id_FirstName)).sendKeys("sakshi");
             driver.findElement(By.id(id_lastname)).sendKeys("tripathi");
-            driver.findElement(By.id(id_email)).sendKeys("r101@test.com");
+            driver.findElement(By.id(id_email)).sendKeys("r1101@test.com");
             driver.findElement(By.id(id_telephone)).sendKeys("89773672");
             driver.findElement(By.id(id_password)).sendKeys("hdhkmkddk");
             driver.findElement(By.id(id_confirmPwd)).sendKeys("hdhkmkddk");
