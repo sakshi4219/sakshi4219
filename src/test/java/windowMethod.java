@@ -12,6 +12,6 @@ public class windowMethod {
         System.out.println(po.y);
         //Point point =driver.manage().window().setPosition()
         driver.get("https://www.saucedemo.com/");
-        driver.manage().window().maximize();;
+        driver.manage().window().maximize();
     }
 }

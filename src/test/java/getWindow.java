@@ -1,8 +1,6 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import java.awt.*;
-
 
 
 public class getWindow
